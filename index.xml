@@ -4,11 +4,7 @@
     <title>Introduction on Oxford Chinese Life Scientists Society</title>
     <link>https://oclss.github.io/</link>
     <description>Recent content in Introduction on Oxford Chinese Life Scientists Society</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://oclss.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://oclss.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://oclss.github.io/docs/Events/form/</link>
@@ -26,7 +22,7 @@
       <guid>https://oclss.github.io/docs/Events/schedule/</guid>
       <description>The Programme for the 26th Annual Conference of the Chinese Life Scientists Society in the UK 8:30 am (British Summer Time) 19th, September 2020
 Zoom meeting online
- OPENING SESSION
+OPENING SESSION
 08:30 – 08:40 Opening remarks - Prof. Hua Ye (Associate Professor in Engineering Science, Deputy Director of CRMI Technology Centre, University of Oxford)
 08:40 – 08:50 Speech from the special guest - Mr. Sunan Jiang (Minister Counsellor for Science and Technology Affairs, Chinese Embassy in the UK)</description>
     </item>
@@ -38,7 +34,7 @@ Zoom meeting online
       
       <guid>https://oclss.github.io/docs/example/hidden/</guid>
       <description>This page is hidden in menu Quondam non pater est dignior ille Eurotas Latent te facies Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
- Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor  Cum honorum Latona O fallor in sustinui iussorum equidem.</description>
+Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor Cum honorum Latona O fallor in sustinui iussorum equidem.</description>
     </item>
     
   </channel>

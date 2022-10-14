@@ -1,69 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://oclss.github.io/docs/example/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/docs/Recruit/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/docs/Membership/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/docs/Events/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/docs/Jobs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/docs/Acknowledgements/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/docs/Contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/docs/Members/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/docs/Partnership/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/docs/Events/form/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/docs/Events/schedule/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/docs/example/hidden/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/docs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://oclss.github.io/tags/</loc>
   </url>
-  
 </urlset>

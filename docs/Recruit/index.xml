@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>招新 on Oxford Chinese Life Scientists Society</title>
+    <title>招新🎉 on Oxford Chinese Life Scientists Society</title>
     <link>https://oclss.github.io/docs/Recruit/</link>
-    <description>Recent content in 招新 on Oxford Chinese Life Scientists Society</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://oclss.github.io/docs/Recruit/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <description>Recent content in 招新🎉 on Oxford Chinese Life Scientists Society</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://oclss.github.io/docs/Recruit/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
