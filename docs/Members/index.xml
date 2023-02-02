@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on Oxford Life Science Association</title>
-    <link>https://oclss.github.io/docs/Members/</link>
+    <link>/docs/Members/</link>
     <description>Recent content in Members on Oxford Life Science Association</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://oclss.github.io/docs/Members/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/docs/Members/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
