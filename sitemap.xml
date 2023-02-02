@@ -2,34 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.example.com/docs/example/</loc>
+    <loc>https://oclss.github.io/docs/example/</loc>
   </url><url>
-    <loc>https://www.example.com/docs/Recruit/</loc>
+    <loc>https://oclss.github.io/docs/Recruit/</loc>
   </url><url>
-    <loc>https://www.example.com/docs/Membership/</loc>
+    <loc>https://oclss.github.io/docs/Membership/</loc>
   </url><url>
-    <loc>https://www.example.com/docs/Events/</loc>
+    <loc>https://oclss.github.io/docs/Events/</loc>
   </url><url>
-    <loc>https://www.example.com/docs/Acknowledgements/</loc>
+    <loc>https://oclss.github.io/docs/Acknowledgements/</loc>
   </url><url>
-    <loc>https://www.example.com/docs/Contact/</loc>
+    <loc>https://oclss.github.io/docs/Contact/</loc>
   </url><url>
-    <loc>https://www.example.com/docs/Members/</loc>
+    <loc>https://oclss.github.io/docs/Members/</loc>
   </url><url>
-    <loc>https://www.example.com/docs/Partnership/</loc>
+    <loc>https://oclss.github.io/docs/Partnership/</loc>
   </url><url>
-    <loc>https://www.example.com/docs/Events/form/</loc>
+    <loc>https://oclss.github.io/docs/Events/form/</loc>
   </url><url>
-    <loc>https://www.example.com/docs/Events/schedule/</loc>
+    <loc>https://oclss.github.io/docs/Events/schedule/</loc>
   </url><url>
-    <loc>https://www.example.com/docs/example/hidden/</loc>
+    <loc>https://oclss.github.io/docs/example/hidden/</loc>
   </url><url>
-    <loc>https://www.example.com/categories/</loc>
+    <loc>https://oclss.github.io/categories/</loc>
   </url><url>
-    <loc>https://www.example.com/docs/</loc>
+    <loc>https://oclss.github.io/docs/</loc>
   </url><url>
-    <loc>https://www.example.com/</loc>
-  </url><url>
-    <loc>https://www.example.com/tags/</loc>
+    <loc>https://oclss.github.io/tags/</loc>
   </url>
 </urlset>
