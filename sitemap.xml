@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/docs/example/</loc>
+    <loc>https://www.example.com/docs/example/</loc>
   </url><url>
-    <loc>/docs/Recruit/</loc>
+    <loc>https://www.example.com/docs/Recruit/</loc>
   </url><url>
-    <loc>/docs/Membership/</loc>
+    <loc>https://www.example.com/docs/Membership/</loc>
   </url><url>
-    <loc>/docs/Events/</loc>
+    <loc>https://www.example.com/docs/Events/</loc>
   </url><url>
-    <loc>/docs/Acknowledgements/</loc>
+    <loc>https://www.example.com/docs/Acknowledgements/</loc>
   </url><url>
-    <loc>/docs/Contact/</loc>
+    <loc>https://www.example.com/docs/Contact/</loc>
   </url><url>
-    <loc>/docs/Members/</loc>
+    <loc>https://www.example.com/docs/Members/</loc>
   </url><url>
-    <loc>/docs/Partnership/</loc>
+    <loc>https://www.example.com/docs/Partnership/</loc>
   </url><url>
-    <loc>/docs/Events/form/</loc>
+    <loc>https://www.example.com/docs/Events/form/</loc>
   </url><url>
-    <loc>/docs/Events/schedule/</loc>
+    <loc>https://www.example.com/docs/Events/schedule/</loc>
   </url><url>
-    <loc>/docs/example/hidden/</loc>
+    <loc>https://www.example.com/docs/example/hidden/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://www.example.com/categories/</loc>
   </url><url>
-    <loc>/docs/</loc>
+    <loc>https://www.example.com/docs/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://www.example.com/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://www.example.com/tags/</loc>
   </url>
 </urlset>
