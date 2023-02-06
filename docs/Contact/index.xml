@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About us on Oxford Life Science Association</title>
-    <link>/docs/Contact/</link>
-    <description>Recent content in About us on Oxford Life Science Association</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/docs/Contact/index.xml" rel="self" type="application/rss+xml" />
+    <title>About us on </title>
+    <link>/docs/contact/</link>
+    <description>Recent content in About us on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/docs/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

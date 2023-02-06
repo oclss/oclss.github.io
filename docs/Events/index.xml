@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events on Oxford Life Science Association</title>
-    <link>/docs/Events/</link>
-    <description>Recent content in Events on Oxford Life Science Association</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/docs/Events/index.xml" rel="self" type="application/rss+xml" />
+    <title>Events on </title>
+    <link>/docs/events/</link>
+    <description>Recent content in Events on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/docs/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/docs/Events/form/</link>
+      <link>/docs/events/form/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/Events/form/</guid>
+      <guid>/docs/events/form/</guid>
       <description> </description>
     </item>
     
     <item>
       <title></title>
-      <link>/docs/Events/schedule/</link>
+      <link>/docs/events/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/Events/schedule/</guid>
-      <description>The Programme for the 26th Annual Conference of the Oxford Life Science Association 8:30 am (British Summer Time) 19th, September 2020
-Zoom meeting online
-OPENING SESSION
+      <guid>/docs/events/schedule/</guid>
+      <description>OPENING SESSION
 08:30 – 08:40 Opening remarks - Prof. Hua Ye (Associate Professor in Engineering Science, Deputy Director of CRMI Technology Centre, University of Oxford)
-08:40 – 08:50 Speech from the special guest - Mr. Sunan Jiang (Minister Counsellor for Science and Technology Affairs, Chinese Embassy in the UK)</description>
+08:40 – 08:50 Speech from the special guest - Mr. Sunan Jiang (Minister Counsellor for Science and Technology Affairs, Chinese Embassy in the UK)
+08:50 – 09:00 Welcome speech from the University of Oxford - Prof. Xin Lu (FMedSci, FRS, Professor of Cancer Biology, Director of Ludwig Cancer Research, University of Oxford)</description>
     </item>
     
   </channel>
